@@ -272,7 +272,7 @@ main .main-about{
 	text-align: center;
 }
 .contact-wrapper{
-	width: 753px;
+	width: 80%;
 	margin: 0 auto;
 	color: #636363;
 }
@@ -290,7 +290,7 @@ form p{
 	display: flex;	
 }
 input{
-	width: 360px;
+	width: 95%;
 	height: 40px;
 	font-size: 20px;
 	margin-bottom: 30px;
